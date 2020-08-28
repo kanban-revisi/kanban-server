@@ -62,10 +62,8 @@ The JSON-formatted data being read and written by this API comprises 2 types:
 ---
 
 ## __Env Template__
-- PORT=
-- JWT_SECRET=
-- BCRYPT_SALTROUNDS=
-- GOOGLE_CLIENT_ID=
-- BASE_URL=
+- PORT=3000
+- JWT_SECRET=hanyaakudantuhayangtahu
+- CLIENT_ID=738046604527-chvd7ddkl6o80g181mvntrv3fdu6al74.apps.googleusercontent.com
 - EMAIL_SEND=
 - PASSWORD_SEND=
