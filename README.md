@@ -1,5 +1,5 @@
 # kanban-server
-repo server for kanban
+<!-- repo server for kanban
 
 Client-Side Deploy Link:
 https://kanban-idz.web.app/
@@ -12,7 +12,7 @@ Complete API Documentation Link
 (w/ example requests & responses):
 https://documenter.getpostman.com/view/12245283/T1LSA5N9
 
----
+---  -->
 
 ## __Introduction__
 This app was written in Javascript & made using NodeJS along with the following core NPM packages:
